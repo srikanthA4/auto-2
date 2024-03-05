@@ -1,0 +1,11 @@
+.todos{
+    background-color: rgb(238, 233, 226);
+    font-size: 20px;
+    height:100px;
+    width:40%;
+    float: left;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

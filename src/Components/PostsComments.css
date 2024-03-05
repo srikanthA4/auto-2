@@ -1,0 +1,31 @@
+.post-comments-container{
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    float: left;
+    height: 150px;
+    width:43%;
+    padding: 20px;
+   
+    
+}
+.name-of-comment{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.email-comment{
+    font-size: 20px;
+    padding-bottom: 10px;
+    color:rgb(255, 255, 255);
+
+}
+
+.body-comment{
+    font-size: 18px;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}

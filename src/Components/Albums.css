@@ -1,0 +1,9 @@
+.album{
+    background-color: beige;
+    width: 45%;
+    margin: 30px;
+    text-align: center;
+    height:60px;
+    float: left;
+    font-size: 18px;
+}

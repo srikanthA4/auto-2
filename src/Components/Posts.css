@@ -1,0 +1,43 @@
+div{
+    background-color: #fff;
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+.post-container{
+    background-color: #efeaea;
+    margin: 10px;
+    padding: 1px 20px;
+    box-shadow: 5px;
+    float: left;
+    width: 30%;
+    height: 200px;
+    
+}
+
+.title{
+    font-size: 24px;
+    text-align: center;
+    height: 40px;
+
+
+}
+
+.body{
+    text-align: center;
+    height: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.icon{
+    font-size: 35px;
+}
+@media screen and (min-width: 1156px) {
+    .post-container{
+      width: 45%;
+    }
+  }

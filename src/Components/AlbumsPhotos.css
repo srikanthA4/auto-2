@@ -1,0 +1,39 @@
+.image{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px 50px;
+    width: 200px;
+    
+   
+    
+}
+
+.photo-container{
+    float: left;
+    width:23.5%;
+    margin: 10px;
+    height:300px;
+    background-color: #ddd;
+    position: relative;
+    display: grid;
+    overflow: scroll;
+}
+
+.thumbnail{
+    position: absolute;
+    width:100px;
+    top:34%;
+    left: 25%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    height:50px;
+    box-sizing: contain;
+
+    
+}
+.photo-title{
+    font-size: 20px;
+    height: 25%;
+    margin: 10px;
+}

@@ -1,0 +1,42 @@
+li{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    background-color: #ec6d1e;
+    color:#fefefe;
+    padding:20px;
+   
+}
+table{
+    width:97vw;
+    
+    border-collapse: collapse;
+}
+
+th,td{
+    text-align: start;
+    border: 1px solid #fff;
+    /* border-spacing: 0px !important; */
+    vertical-align: inherit;
+    padding: 20px 0px 0px 30px;
+}
+
+
+
+
+Link{
+    text-align: center;
+    flex: block;
+}
+
+.website{
+    display: block;
+}
